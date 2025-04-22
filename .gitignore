@@ -1,4 +1,5 @@
 hardware/.DS_Store
+/hardware/datasheets
 hardware/dallas-controller/fp-info-cache
 hardware/dallas-controller/~dallas-controller.kicad_pcb.lck
 hardware/dallas-controller/~dallas-controller.kicad_sch.lck
